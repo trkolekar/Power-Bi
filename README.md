@@ -1,2 +1,2 @@
 # Power-Bi
-Everything to start with Power BI
+Everything to know and learn about Power BI
